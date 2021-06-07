@@ -6,10 +6,10 @@
 }
 .box:nth-child(even){
     
-    background-color: #7777;
+    background: linear-gradient(blue, white);
 }
 .box:nth-child(odd){
-    background-color: #cccccc;
+    background: linear-gradient(pink, white);
   
 }
   
